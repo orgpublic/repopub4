@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CQRSWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814d77a8b5afb065dad695c4a3e2bb1a05110194")]
 [assembly: System.Reflection.AssemblyProductAttribute("CQRSWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CQRSWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

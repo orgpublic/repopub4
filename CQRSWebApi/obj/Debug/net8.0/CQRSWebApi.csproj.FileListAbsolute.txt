@@ -43,3 +43,11 @@ C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.Extensions.Dependen
 C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\dev\june\CQRSWebApi\CQRSWebApi\obj\Debug\net8.0\CQRSWebApi.sourcelink.json
+C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\MediatR.dll
+C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\june\CQRSWebApi\CQRSWebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
