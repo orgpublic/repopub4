@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../Users/Admin/Desktop/Cqrs.png" />
+    <File Path="../../../Users/Admin/Desktop/WCqrs.png" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="CQRSWebApi/CQRSWebApi.csproj" />
+  <Project Path="NonCQRSWebApi/NonCQRSWebApi.csproj" />
+</Solution>
